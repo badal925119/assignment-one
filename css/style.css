@@ -29,6 +29,11 @@ height: 48px;
 
 
 /* banner section style starts here */
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
 .banner-section{
     width: 1440px;
 height: 652px;
