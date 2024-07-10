@@ -194,3 +194,102 @@ height: 550px;
 margin-left: 30px;
 }
 /* inspiration section style end here  */
+
+
+/* curren target section style starts here */
+
+.current-target{
+    width: 1140px;
+height: 463px;
+margin: 0 auto;
+margin-top:100px ;
+}
+.target-text{
+    width: 852px;
+height: 115px;
+width: 80%;
+margin: 0 auto;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+text-align: center;
+margin-bottom: 40px;
+}
+.target-text p{
+    margin-top: 23px;
+}
+.target-items{
+    width: 1140px;
+height: 300px;
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+}
+.target-item{
+    width: 284px;
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0px;
+    margin: 32px 0px;
+    background: rgb(255, 255, 255);
+    border-radius: 16px;
+}
+.target-item-one{
+    width: 284px;
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0px;
+    margin: 32px 0px;
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+}
+.target-item h2{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+margin-bottom: 10px;
+margin-top: 23px;
+}
+.target-item p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 23px;
+}
+.target-item button{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+}
+.target-item-one h2{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+margin-bottom: 10px;
+margin-top: 23px;
+}
+.target-item-one p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 23px;
+}
+.target-item-one button{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+}
+/* curren target section style end here */
